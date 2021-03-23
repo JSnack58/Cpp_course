@@ -1,2 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CodeLite_Workspace Name="courseSection" Database="" Version="10000"/>
+<CodeLite_Workspace Name="courseSection" Database="" Version="10000">
+  <VirtualDirectory Name="Section5"/>
+  <Project Name="programStructure" Path="courseSection/courseSection.project" Active="No"/>
+  <Project Name="Ex1_sayHi" Path="Ex1_sayHi/Ex1_sayHi.project" Active="No"/>
+  <Project Name="ex2_usingCoutAndInsertionOperators" Path="ex2_usingCoutAndInsertionOperators/ex2_usingCoutAndInsertionOperators.project" Active="No"/>
+  <Project Name="ex3_usingCinAndExtractionOperators" Path="ex3_usingCinAndExtractionOperators/ex3_usingCinAndExtractionOperators.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="programStructure" ConfigName="Debug"/>
+      <Project Name="Ex1_sayHi" ConfigName="Debug"/>
+      <Project Name="ex2_usingCoutAndInsertionOperators" ConfigName="Debug"/>
+      <Project Name="ex3_usingCinAndExtractionOperators" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Environment/>
+      <Project Name="programStructure" ConfigName="Release"/>
+      <Project Name="Ex1_sayHi" ConfigName="Release"/>
+      <Project Name="ex2_usingCoutAndInsertionOperators" ConfigName="Release"/>
+      <Project Name="ex3_usingCinAndExtractionOperators" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
