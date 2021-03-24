@@ -4,7 +4,14 @@
   <Project Name="programStructure" Path="courseSection/courseSection.project" Active="No"/>
   <Project Name="Ex1_sayHi" Path="Ex1_sayHi/Ex1_sayHi.project" Active="No"/>
   <Project Name="ex2_usingCoutAndInsertionOperators" Path="ex2_usingCoutAndInsertionOperators/ex2_usingCoutAndInsertionOperators.project" Active="No"/>
-  <Project Name="ex3_usingCinAndExtractionOperators" Path="ex3_usingCinAndExtractionOperators/ex3_usingCinAndExtractionOperators.project" Active="Yes"/>
+  <Project Name="ex3_usingCinAndExtractionOperators" Path="ex3_usingCinAndExtractionOperators/ex3_usingCinAndExtractionOperators.project" Active="No"/>
+  <Project Name="variables" Path="variables/variables.project" Active="No"/>
+  <Project Name="courseSection" Path="courseSection/courseSection.project" Active="No"/>
+  <Project Name="ex4_variables" Path="ex4_variables/ex4_variables.project" Active="No"/>
+  <Project Name="arrays_and_vectors" Path="arrays_and_vectors/arrays_and_vectors.project" Active="No"/>
+  <Project Name="ex5_arrays" Path="ex5_arrays/ex5_arrays.project" Active="No"/>
+  <Project Name="ex6_vectors" Path="ex6_vectors/ex6_vectors.project" Active="No"/>
+  <Project Name="sec7_challenge" Path="sec7_challenge/sec7_challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -12,6 +19,13 @@
       <Project Name="Ex1_sayHi" ConfigName="Debug"/>
       <Project Name="ex2_usingCoutAndInsertionOperators" ConfigName="Debug"/>
       <Project Name="ex3_usingCinAndExtractionOperators" ConfigName="Debug"/>
+      <Project Name="variables" ConfigName="Debug"/>
+      <Project Name="courseSection" ConfigName="Debug"/>
+      <Project Name="ex4_variables" ConfigName="Debug"/>
+      <Project Name="arrays_and_vectors" ConfigName="Debug"/>
+      <Project Name="ex5_arrays" ConfigName="Debug"/>
+      <Project Name="ex6_vectors" ConfigName="Debug"/>
+      <Project Name="sec7_challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -19,6 +33,13 @@
       <Project Name="Ex1_sayHi" ConfigName="Release"/>
       <Project Name="ex2_usingCoutAndInsertionOperators" ConfigName="Release"/>
       <Project Name="ex3_usingCinAndExtractionOperators" ConfigName="Release"/>
+      <Project Name="variables" ConfigName="Release"/>
+      <Project Name="courseSection" ConfigName="Release"/>
+      <Project Name="ex4_variables" ConfigName="Release"/>
+      <Project Name="arrays_and_vectors" ConfigName="Release"/>
+      <Project Name="ex5_arrays" ConfigName="Release"/>
+      <Project Name="ex6_vectors" ConfigName="Release"/>
+      <Project Name="sec7_challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

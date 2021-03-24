@@ -3,7 +3,7 @@
     #include is a common directives
         recursively access the input file
 */
-include<iostream>//allows cout & cin
+#include <iostream> //allows cout & cin
 /*
  * main is a very special function
  * main(int argc, char *argv)
