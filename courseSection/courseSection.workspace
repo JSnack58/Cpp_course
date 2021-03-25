@@ -11,7 +11,11 @@
   <Project Name="arrays_and_vectors" Path="arrays_and_vectors/arrays_and_vectors.project" Active="No"/>
   <Project Name="ex5_arrays" Path="ex5_arrays/ex5_arrays.project" Active="No"/>
   <Project Name="ex6_vectors" Path="ex6_vectors/ex6_vectors.project" Active="No"/>
-  <Project Name="sec7_challenge" Path="sec7_challenge/sec7_challenge.project" Active="Yes"/>
+  <Project Name="sec7_challenge" Path="sec7_challenge/sec7_challenge.project" Active="No"/>
+  <Project Name="ex7_assignmentOperator" Path="ex7_assignmentOperator/ex7_assignmentOperator.project" Active="No"/>
+  <Project Name="ex8_arithmeticOperation" Path="ex8_arithmeticOperation/ex8_arithmeticOperation.project" Active="No"/>
+  <Project Name="ex9_logicalOperators" Path="ex9_logicalOperators/ex9_logicalOperators.project" Active="No"/>
+  <Project Name="sec8_challenge" Path="sec8_challenge/sec8_challenge.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
@@ -26,6 +30,10 @@
       <Project Name="ex5_arrays" ConfigName="Debug"/>
       <Project Name="ex6_vectors" ConfigName="Debug"/>
       <Project Name="sec7_challenge" ConfigName="Debug"/>
+      <Project Name="ex7_assignmentOperator" ConfigName="Debug"/>
+      <Project Name="ex8_arithmeticOperation" ConfigName="Debug"/>
+      <Project Name="ex9_logicalOperators" ConfigName="Debug"/>
+      <Project Name="sec8_challenge" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
@@ -40,6 +48,10 @@
       <Project Name="ex5_arrays" ConfigName="Release"/>
       <Project Name="ex6_vectors" ConfigName="Release"/>
       <Project Name="sec7_challenge" ConfigName="Release"/>
+      <Project Name="ex7_assignmentOperator" ConfigName="Release"/>
+      <Project Name="ex8_arithmeticOperation" ConfigName="Release"/>
+      <Project Name="ex9_logicalOperators" ConfigName="Release"/>
+      <Project Name="sec8_challenge" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
